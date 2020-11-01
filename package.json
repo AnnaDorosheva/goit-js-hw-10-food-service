@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnnaDorosheva/goit-js-hw-10-food-service"
+    "url": "git+https://github.com/AnnaDorosheva/goit-js-hw-10-food-service.git"
   },
   "keywords": [],
   "author": "Anna Dorosheva <alexander.repeta@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
+    "url": "https://github.com/AnnaDorosheva/goit-js-hw-10-food-service/issues"
   },
   "homepage": "https://github.com/AnnaDorosheva/goit-js-hw-10-food-service",
   "devDependencies": {
